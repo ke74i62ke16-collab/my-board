@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 const dotGothic16 = DotGothic16({
   weight: "400",
-  subsets: ["japanese"],
+  subsets: ["latin"],
   display: "swap",
   variable: "--font-dot-gothic",
 });

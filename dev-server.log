@@ -7644,3 +7644,464 @@ Parsing ecmascript source code failed
 [getThread] posts likes: [{"id":"1a9c994e","likes":0}]
  GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1538ms (next.js: 26ms, application-code: 1512ms)
  GET / 200 in 728ms (next.js: 14ms, application-code: 714ms)
+✓ Compiled in 211ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 82ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET /mgmt-p8x2k?section=threads 200 in 4.6s (next.js: 660ms, application-code: 3.9s)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 3.5s (next.js: 1208ms, application-code: 2.3s)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 1ms
+ GET / 200 in 8.6s (next.js: 1311ms, application-code: 7.3s)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 6.8s (next.js: 510ms, application-code: 6.3s)
+ GET / 200 in 7.0s (next.js: 1980ms, application-code: 5.0s)
+✓ Compiled in 0ms
+ GET /mgmt-p8x2k?section=threads 200 in 3.4s (next.js: 52ms, application-code: 3.4s)
+ GET /mgmt-p8x2k?section=threads 200 in 3.2s (next.js: 2.0s, application-code: 1215ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 0ms
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 5.7s (next.js: 129ms, application-code: 5.6s)
+ GET /mgmt-p8x2k?section=threads 200 in 1745ms (next.js: 20ms, application-code: 1725ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1532ms (next.js: 23ms, application-code: 1508ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1531ms (next.js: 182ms, application-code: 1348ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1318ms (next.js: 445ms, application-code: 874ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET /mgmt-p8x2k?section=threads 200 in 1450ms (next.js: 44ms, application-code: 1407ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1410ms (next.js: 19ms, application-code: 1392ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1411ms (next.js: 124ms, application-code: 1288ms)
+ GET / 200 in 1405ms (next.js: 420ms, application-code: 985ms)
+ GET / 200 in 1406ms (next.js: 627ms, application-code: 780ms)
+ GET / 200 in 713ms (next.js: 21ms, application-code: 692ms)
+ GET / 200 in 727ms (next.js: 17ms, application-code: 710ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET / 200 in 1519ms (next.js: 20ms, application-code: 1498ms)
+ GET / 200 in 1522ms (next.js: 139ms, application-code: 1383ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET / 200 in 1631ms (next.js: 23ms, application-code: 1608ms)
+ GET / 200 in 1625ms (next.js: 111ms, application-code: 1514ms)
+ GET / 200 in 1385ms (next.js: 15ms, application-code: 1370ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1813ms (next.js: 428ms, application-code: 1386ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1175ms (next.js: 15ms, application-code: 1159ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1038ms (next.js: 31ms, application-code: 1007ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1102ms (next.js: 184ms, application-code: 918ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1109ms (next.js: 24ms, application-code: 1085ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1076ms (next.js: 16ms, application-code: 1060ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1121ms (next.js: 17ms, application-code: 1104ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1097ms (next.js: 17ms, application-code: 1080ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 967ms (next.js: 29ms, application-code: 938ms)
+ GET /mgmt-p8x2k?section=threads 200 in 987ms (next.js: 145ms, application-code: 842ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET / 200 in 1304ms (next.js: 19ms, application-code: 1285ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1093ms (next.js: 22ms, application-code: 1070ms)
+ GET /mgmt-p8x2k?section=threads 200 in 715ms (next.js: 13ms, application-code: 702ms)
+ GET / 200 in 1146ms (next.js: 12ms, application-code: 1135ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 983ms (next.js: 16ms, application-code: 967ms)
+ GET / 200 in 814ms (next.js: 18ms, application-code: 796ms)
+ GET / 200 in 1058ms (next.js: 13ms, application-code: 1045ms)
+ GET /mgmt-p8x2k?section=threads 200 in 574ms (next.js: 17ms, application-code: 557ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET / 200 in 1336ms (next.js: 24ms, application-code: 1312ms)
+ GET / 200 in 1335ms (next.js: 131ms, application-code: 1205ms)
+ GET /mgmt-p8x2k?section=threads 200 in 885ms (next.js: 15ms, application-code: 870ms)
+ GET /mgmt-p8x2k?section=threads 200 in 734ms (next.js: 57ms, application-code: 677ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 951ms (next.js: 26ms, application-code: 925ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 726ms (next.js: 50ms, application-code: 676ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 491ms (next.js: 15ms, application-code: 476ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 492ms (next.js: 150ms, application-code: 342ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 200ms (next.js: 15ms, application-code: 185ms)
+✓ Compiled in 65ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 75ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 0ms
+ GET /mgmt-p8x2k?section=threads 200 in 3.1s (next.js: 707ms, application-code: 2.3s)
+ GET /mgmt-p8x2k?section=threads 200 in 1962ms (next.js: 648ms, application-code: 1314ms)
+✓ Compiled in 101ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 4.2s (next.js: 467ms, application-code: 3.7s)
+ GET / 200 in 3.1s (next.js: 442ms, application-code: 2.7s)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 3.1s (next.js: 937ms, application-code: 2.2s)
+ GET / 200 in 2.1s (next.js: 418ms, application-code: 1663ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1066ms (next.js: 447ms, application-code: 619ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET / 200 in 3.2s (next.js: 21ms, application-code: 3.2s)
+ GET /mgmt-p8x2k?section=threads 200 in 2.0s (next.js: 20ms, application-code: 2.0s)
+ GET /mgmt-p8x2k?section=threads 200 in 1251ms (next.js: 713ms, application-code: 538ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET / 200 in 2.3s (next.js: 487ms, application-code: 1803ms)
+ GET /mgmt-p8x2k?section=threads 200 in 477ms (next.js: 14ms, application-code: 464ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1559ms (next.js: 500ms, application-code: 1058ms)
+ GET / 200 in 1542ms (next.js: 862ms, application-code: 680ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 823ms (next.js: 25ms, application-code: 797ms)
+ GET / 200 in 689ms (next.js: 11ms, application-code: 678ms)
+ GET / 200 in 793ms (next.js: 17ms, application-code: 775ms)
+ GET / 200 in 577ms (next.js: 38ms, application-code: 539ms)
+ GET / 200 in 795ms (next.js: 118ms, application-code: 677ms)
+ GET / 200 in 582ms (next.js: 131ms, application-code: 451ms)
+ GET / 200 in 820ms (next.js: 15ms, application-code: 805ms)
+ GET /mgmt-p8x2k?section=threads 200 in 437ms (next.js: 112ms, application-code: 325ms)
+ GET / 200 in 711ms (next.js: 17ms, application-code: 694ms)
+ GET / 200 in 1161ms (next.js: 17ms, application-code: 1144ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1043ms (next.js: 260ms, application-code: 784ms)
+ GET / 200 in 1061ms (next.js: 24ms, application-code: 1037ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1160ms (next.js: 46ms, application-code: 1113ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1174ms (next.js: 141ms, application-code: 1034ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1073ms (next.js: 167ms, application-code: 906ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 1137ms (next.js: 46ms, application-code: 1091ms)
+ GET /mgmt-p8x2k?section=threads 200 in 960ms (next.js: 43ms, application-code: 917ms)
+ GET /mgmt-p8x2k?section=threads 200 in 956ms (next.js: 117ms, application-code: 839ms)
+ GET /mgmt-p8x2k?section=threads 200 in 527ms (next.js: 29ms, application-code: 498ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 909ms (next.js: 46ms, application-code: 863ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 899ms (next.js: 187ms, application-code: 712ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 691ms (next.js: 121ms, application-code: 570ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 838ms (next.js: 17ms, application-code: 821ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 697ms (next.js: 24ms, application-code: 673ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 436ms (next.js: 14ms, application-code: 422ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 887ms (next.js: 13ms, application-code: 874ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 889ms (next.js: 125ms, application-code: 764ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 603ms (next.js: 27ms, application-code: 576ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 603ms (next.js: 125ms, application-code: 478ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 602ms (next.js: 274ms, application-code: 328ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 168ms (next.js: 13ms, application-code: 155ms)
+✓ Compiled in 97ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 118ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 4.7s (next.js: 1404ms, application-code: 3.3s)
+ GET /mgmt-p8x2k?section=threads 200 in 2.6s (next.js: 1884ms, application-code: 707ms)
+ GET / 200 in 4.8s (next.js: 633ms, application-code: 4.2s)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 2.9s (next.js: 504ms, application-code: 2.4s)
+ GET / 200 in 2.9s (next.js: 1242ms, application-code: 1670ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 988ms (next.js: 28ms, application-code: 961ms)
+ GET / 200 in 908ms (next.js: 11ms, application-code: 897ms)
+ GET / 200 in 899ms (next.js: 17ms, application-code: 883ms)
+ GET / 200 in 743ms (next.js: 15ms, application-code: 728ms)
+ GET / 200 in 869ms (next.js: 15ms, application-code: 854ms)
+ GET / 200 in 873ms (next.js: 123ms, application-code: 750ms)
+ GET / 200 in 825ms (next.js: 13ms, application-code: 811ms)
+✓ Compiled in 86ms
+ GET / 200 in 1094ms (next.js: 14ms, application-code: 1080ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 1763ms (next.js: 17ms, application-code: 1746ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1244ms (next.js: 15ms, application-code: 1229ms)
+ GET / 200 in 1649ms (next.js: 16ms, application-code: 1633ms)
+ GET / 200 in 1512ms (next.js: 10ms, application-code: 1503ms)
+ GET / 200 in 1422ms (next.js: 20ms, application-code: 1402ms)
+✓ Compiled in 57ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET /mgmt-p8x2k?section=threads 200 in 2.4s (next.js: 494ms, application-code: 1888ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 0ms
+✓ Compiled in 0ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET /mgmt-p8x2k?section=threads 200 in 3.7s (next.js: 26ms, application-code: 3.7s)
+ GET /mgmt-p8x2k?section=threads 200 in 3.8s (next.js: 294ms, application-code: 3.5s)
+ GET /mgmt-p8x2k?section=threads 200 in 3.8s (next.js: 181ms, application-code: 3.6s)
+ GET /mgmt-p8x2k?section=threads 200 in 3.2s (next.js: 614ms, application-code: 2.6s)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET /mgmt-p8x2k?section=threads 200 in 3.1s (next.js: 612ms, application-code: 2.5s)
+✓ Compiled in 0ms
+ GET /mgmt-p8x2k?section=threads 200 in 2.5s (next.js: 565ms, application-code: 1922ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 2.5s (next.js: 466ms, application-code: 2.1s)
+ GET /mgmt-p8x2k?section=threads 200 in 2.5s (next.js: 741ms, application-code: 1802ms)
+ GET /mgmt-p8x2k?section=threads 200 in 2.5s (next.js: 871ms, application-code: 1676ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1605ms (next.js: 563ms, application-code: 1043ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 786ms (next.js: 28ms, application-code: 758ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 634ms (next.js: 12ms, application-code: 622ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 918ms (next.js: 16ms, application-code: 902ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 918ms (next.js: 118ms, application-code: 800ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 662ms (next.js: 33ms, application-code: 629ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1554ms (next.js: 14ms, application-code: 1540ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1451ms (next.js: 27ms, application-code: 1424ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1960ms (next.js: 31ms, application-code: 1929ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET / 200 in 2.3s (next.js: 519ms, application-code: 1749ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 2.3s (next.js: 729ms, application-code: 1539ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1555ms (next.js: 173ms, application-code: 1382ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1326ms (next.js: 482ms, application-code: 844ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 579ms (next.js: 15ms, application-code: 565ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 957ms (next.js: 51ms, application-code: 906ms)
+ GET / 200 in 878ms (next.js: 33ms, application-code: 845ms)
+ GET / 200 in 852ms (next.js: 28ms, application-code: 823ms)
+ GET / 200 in 733ms (next.js: 33ms, application-code: 700ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 716ms (next.js: 126ms, application-code: 589ms)
+ GET / 200 in 818ms (next.js: 14ms, application-code: 804ms)
+ GET / 200 in 694ms (next.js: 16ms, application-code: 679ms)
+ GET / 200 in 673ms (next.js: 25ms, application-code: 647ms)
+ GET / 200 in 811ms (next.js: 13ms, application-code: 798ms)
+ GET / 200 in 713ms (next.js: 47ms, application-code: 667ms)
+ GET / 200 in 684ms (next.js: 130ms, application-code: 554ms)
+ GET / 200 in 851ms (next.js: 14ms, application-code: 837ms)
+ GET / 200 in 735ms (next.js: 24ms, application-code: 711ms)
+ GET / 200 in 745ms (next.js: 35ms, application-code: 710ms)
+ GET / 200 in 891ms (next.js: 39ms, application-code: 851ms)
+ GET / 200 in 736ms (next.js: 142ms, application-code: 593ms)
+ GET / 200 in 739ms (next.js: 21ms, application-code: 718ms)
+ GET / 200 in 904ms (next.js: 15ms, application-code: 890ms)
+ GET /mgmt-p8x2k?section=threads 200 in 444ms (next.js: 19ms, application-code: 425ms)
+ GET / 200 in 912ms (next.js: 16ms, application-code: 896ms)
+ GET / 200 in 851ms (next.js: 24ms, application-code: 827ms)
+ GET /mgmt-p8x2k?section=threads 200 in 533ms (next.js: 127ms, application-code: 406ms)
+ GET /mgmt-p8x2k?section=threads 200 in 831ms (next.js: 12ms, application-code: 819ms)
+ GET /mgmt-p8x2k?section=threads 200 in 980ms (next.js: 27ms, application-code: 953ms)
+ GET /mgmt-p8x2k?section=threads 200 in 774ms (next.js: 40ms, application-code: 734ms)
+ GET /mgmt-p8x2k?section=threads 200 in 754ms (next.js: 160ms, application-code: 595ms)
+ GET /mgmt-p8x2k?section=threads 200 in 734ms (next.js: 157ms, application-code: 577ms)
+ GET /mgmt-p8x2k?section=threads 200 in 579ms (next.js: 29ms, application-code: 550ms)
+ GET /mgmt-p8x2k?section=threads 200 in 568ms (next.js: 41ms, application-code: 527ms)
+ GET /mgmt-p8x2k?section=threads 200 in 874ms (next.js: 13ms, application-code: 861ms)
+ GET /mgmt-p8x2k?section=threads 200 in 745ms (next.js: 25ms, application-code: 720ms)
+ GET /mgmt-p8x2k?section=threads 200 in 743ms (next.js: 141ms, application-code: 603ms)
+ GET /mgmt-p8x2k?section=threads 200 in 664ms (next.js: 60ms, application-code: 604ms)
+ GET /mgmt-p8x2k?section=threads 200 in 652ms (next.js: 33ms, application-code: 619ms)
+ GET /mgmt-p8x2k?section=threads 200 in 544ms (next.js: 53ms, application-code: 490ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 844ms (next.js: 14ms, application-code: 830ms)
+ GET /mgmt-p8x2k?section=threads 200 in 704ms (next.js: 33ms, application-code: 671ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 891ms (next.js: 35ms, application-code: 857ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 719ms (next.js: 116ms, application-code: 603ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 728ms (next.js: 17ms, application-code: 712ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 511ms (next.js: 10ms, application-code: 501ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 892ms (next.js: 18ms, application-code: 874ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 701ms (next.js: 19ms, application-code: 681ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 858ms (next.js: 14ms, application-code: 844ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 715ms (next.js: 15ms, application-code: 700ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 714ms (next.js: 110ms, application-code: 605ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 484ms (next.js: 22ms, application-code: 462ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 808ms (next.js: 17ms, application-code: 791ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 676ms (next.js: 39ms, application-code: 638ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 639ms (next.js: 18ms, application-code: 621ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 520ms (next.js: 37ms, application-code: 483ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 498ms (next.js: 112ms, application-code: 386ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 266ms (next.js: 10ms, application-code: 256ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 151ms (next.js: 10ms, application-code: 142ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1235ms (next.js: 22ms, application-code: 1213ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET /?category=pack_opening 200 in 587ms (next.js: 14ms, application-code: 573ms)
+ GET / 200 in 43ms (next.js: 15ms, application-code: 28ms)
+ GET / 200 in 378ms (next.js: 13ms, application-code: 365ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 233ms (next.js: 26ms, application-code: 207ms)
+ GET / 200 in 393ms (next.js: 8ms, application-code: 385ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 184ms (next.js: 31ms, application-code: 153ms)
+ GET /?category=chat 200 in 417ms (next.js: 8ms, application-code: 408ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 255ms (next.js: 32ms, application-code: 223ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 1397ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+✓ Compiled in 596ms
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 8.3s (next.js: 17ms, application-code: 8.3s)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 8.5s (next.js: 1585ms, application-code: 6.9s)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 3.3s (next.js: 123ms, application-code: 3.2s)
+ GET /mgmt-p8x2k?section=threads 200 in 4.5s (next.js: 668ms, application-code: 3.8s)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET /mgmt-p8x2k?section=threads 200 in 5.6s (next.js: 333ms, application-code: 5.2s)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 2.8s (next.js: 514ms, application-code: 2.3s)
+ GET /mgmt-p8x2k?section=threads 200 in 2.8s (next.js: 808ms, application-code: 1946ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 0ms
+ GET /mgmt-p8x2k?section=threads 200 in 1836ms (next.js: 20ms, application-code: 1816ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1894ms (next.js: 170ms, application-code: 1724ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 7.6s (next.js: 408ms, application-code: 7.2s)
+ GET /mgmt-p8x2k?section=threads 200 in 1908ms (next.js: 27ms, application-code: 1882ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1690ms (next.js: 659ms, application-code: 1031ms)
+ GET /mgmt-p8x2k?section=threads 200 in 969ms (next.js: 23ms, application-code: 946ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1042ms (next.js: 28ms, application-code: 1014ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 4.3s (next.js: 517ms, application-code: 3.8s)
+ GET /mgmt-p8x2k?section=threads 200 in 1087ms (next.js: 12ms, application-code: 1075ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1318ms (next.js: 15ms, application-code: 1303ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1214ms (next.js: 35ms, application-code: 1179ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1175ms (next.js: 30ms, application-code: 1146ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1137ms (next.js: 16ms, application-code: 1121ms)
+ GET /mgmt-p8x2k?section=threads 200 in 908ms (next.js: 23ms, application-code: 885ms)
+ GET /mgmt-p8x2k?section=threads 200 in 2.0s (next.js: 14ms, application-code: 2.0s)
+ GET /mgmt-p8x2k?section=threads 200 in 2.8s (next.js: 22ms, application-code: 2.7s)
+ GET /mgmt-p8x2k?section=threads 200 in 2.1s (next.js: 15ms, application-code: 2.0s)
+ GET /mgmt-p8x2k?section=threads 200 in 2.5s (next.js: 16ms, application-code: 2.5s)
+ GET /mgmt-p8x2k?section=threads 200 in 2.5s (next.js: 16ms, application-code: 2.4s)
+ GET /mgmt-p8x2k?section=threads 200 in 921ms (next.js: 14ms, application-code: 907ms)
+ GET /mgmt-p8x2k?section=threads 200 in 962ms (next.js: 13ms, application-code: 949ms)
+ GET /mgmt-p8x2k?section=threads 200 in 962ms (next.js: 91ms, application-code: 871ms)
+ GET /mgmt-p8x2k?section=threads 200 in 631ms (next.js: 16ms, application-code: 615ms)
+ GET /mgmt-p8x2k?section=threads 200 in 3.8s (next.js: 13ms, application-code: 3.8s)
+ GET /mgmt-p8x2k?section=threads 200 in 1050ms (next.js: 15ms, application-code: 1035ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1051ms (next.js: 187ms, application-code: 864ms)
+ GET /mgmt-p8x2k?section=threads 200 in 741ms (next.js: 13ms, application-code: 728ms)
+ GET /mgmt-p8x2k?section=threads 200 in 382ms (next.js: 35ms, application-code: 347ms)
+✓ Compiled in 276ms
+ GET /mgmt-p8x2k?section=threads 200 in 1580ms (next.js: 101ms, application-code: 1480ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 3.2s (next.js: 618ms, application-code: 2.6s)
+ GET /mgmt-p8x2k?section=threads 200 in 1349ms (next.js: 92ms, application-code: 1257ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1059ms (next.js: 19ms, application-code: 1040ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1062ms (next.js: 144ms, application-code: 918ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 721ms (next.js: 21ms, application-code: 700ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 3.0s (next.js: 750ms, application-code: 2.2s)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1520ms (next.js: 392ms, application-code: 1128ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 600ms (next.js: 45ms, application-code: 555ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 314ms (next.js: 22ms, application-code: 292ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1008ms (next.js: 21ms, application-code: 987ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 755ms (next.js: 424ms, application-code: 331ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 189ms (next.js: 21ms, application-code: 167ms)
+ GET / 200 in 438ms (next.js: 11ms, application-code: 427ms)
+✓ Compiled in 159ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 3.8s (next.js: 658ms, application-code: 3.1s)
+ GET / 200 in 3.8s (next.js: 1328ms, application-code: 2.5s)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 2.2s (next.js: 452ms, application-code: 1702ms)
+ GET / 200 in 2.2s (next.js: 862ms, application-code: 1296ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1011ms (next.js: 56ms, application-code: 955ms)
+ GET /mgmt-p8x2k?section=threads 200 in 3.8s (next.js: 693ms, application-code: 3.1s)
+✓ Compiled in 135ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET / 200 in 2.9s (next.js: 1411ms, application-code: 1461ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1224ms (next.js: 609ms, application-code: 615ms)
+ GET / 200 in 1221ms (next.js: 907ms, application-code: 314ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 171ms (next.js: 12ms, application-code: 158ms)
+ GET /mgmt-p8x2k?section=threads 200 in 3.1s (next.js: 500ms, application-code: 2.6s)
+ GET /mgmt-p8x2k?section=threads 200 in 1405ms (next.js: 16ms, application-code: 1389ms)
+ POST / 200 in 1065ms (next.js: 16ms, application-code: 1049ms)
+  └─ ƒ getThreadsAction() in 1016ms src/lib/actions.ts
+ GET / 200 in 1065ms (next.js: 65ms, application-code: 1000ms)
+ GET / 200 in 662ms (next.js: 13ms, application-code: 649ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 481ms (next.js: 28ms, application-code: 453ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+✓ Compiled in 144ms
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /mgmt-p8x2k?section=threads 200 in 3.1s (next.js: 575ms, application-code: 2.5s)
+ GET / 200 in 3.1s (next.js: 1472ms, application-code: 1610ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1333ms (next.js: 549ms, application-code: 784ms)
+ GET / 200 in 569ms (next.js: 197ms, application-code: 372ms)
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 239ms (next.js: 17ms, application-code: 221ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1489ms (next.js: 761ms, application-code: 727ms)
+ GET /?category=chat 200 in 300ms (next.js: 14ms, application-code: 286ms)
+ GET /?category=chat 200 in 813ms (next.js: 14ms, application-code: 800ms)
+ GET /?category=market 200 in 400ms (next.js: 15ms, application-code: 385ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET / 200 in 29ms (next.js: 13ms, application-code: 16ms)
+ GET / 200 in 255ms (next.js: 7ms, application-code: 248ms)
+ GET / 200 in 368ms (next.js: 14ms, application-code: 354ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 792ms (next.js: 30ms, application-code: 762ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET / 200 in 224ms (next.js: 15ms, application-code: 209ms)
+ GET /?category=chat 200 in 358ms (next.js: 13ms, application-code: 345ms)
+ GET /?category=chat&q=%E5%AE%8C%E4%BA%86 200 in 647ms (next.js: 16ms, application-code: 631ms)
+ GET /?category=chat 200 in 343ms (next.js: 12ms, application-code: 331ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET / 200 in 29ms (next.js: 13ms, application-code: 16ms)
+ GET / 200 in 423ms (next.js: 7ms, application-code: 416ms)
+ GET /mgmt-p8x2k?section=threads 200 in 1133ms (next.js: 15ms, application-code: 1118ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET /contact 200 in 670ms (next.js: 502ms, application-code: 168ms)
+ GET /contact 200 in 545ms (next.js: 11ms, application-code: 535ms)
+[getThread] posts likes: [{"id":"1a9c994e","likes":0}]
+ GET /threads/222952f1-ad29-400f-926b-e7ef932c7eb0 200 in 1238ms (next.js: 23ms, application-code: 1214ms)
+ GET / 200 in 2.3s (next.js: 15ms, application-code: 2.3s)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ POST / 200 in 7.5s (next.js: 22ms, application-code: 7.4s)
+  └─ ƒ getThreadsAction() in 7378ms src/lib/actions.ts
+ GET / 200 in 7.4s (next.js: 14ms, application-code: 7.4s)
+ GET / 200 in 5.7s (next.js: 58ms, application-code: 5.7s)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior

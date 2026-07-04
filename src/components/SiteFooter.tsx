@@ -16,74 +16,61 @@ export default function SiteFooter() {
   const xHref = `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`;
   const lineHref = `https://line.me/R/msg/text/?${encodeURIComponent(`${siteUrl} ポケトレ板 | ポケモンカード投資・コレクター掲示板`)}`;
 
-  const shareIcons = (
-    <>
-      <a
-        href={xHref}
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Xでシェア"
-        className="text-slate-400 hover:text-slate-200 transition-colors"
-      >
-        <XIcon />
-      </a>
-      <a
-        href={lineHref}
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="LINEでシェア"
-        className="transition-opacity hover:opacity-75"
-      >
-        <img
-          src="/line-icon.svg"
-          alt="LINEでシェア"
-          width={20}
-          height={20}
-          style={{ borderRadius: "4px", filter: "grayscale(100%) brightness(0.8)" }}
-        />
-      </a>
-    </>
-  );
-
   return (
     <footer className="mt-auto bg-slate-900 border-t border-slate-700/60">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-6">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
 
-          {/* ロゴ + スマホ時のアイコン（ロゴ右端） */}
-          <div className="w-full sm:w-auto flex items-center justify-between md:block">
-            <div className="text-left">
-              <Logo size="md" variant="dark" />
-              <p className="text-xs text-slate-500 mt-2">© 2026 ポケトレ板</p>
-            </div>
-            <div className="flex items-center gap-4 md:hidden">
-              {shareIcons}
-            </div>
+          {/* ロゴ */}
+          <div className="text-center sm:text-left">
+            <Logo size="md" variant="dark" />
+            <p className="text-xs text-slate-500 mt-2">© 2026 ポケトレ板</p>
           </div>
 
-          {/* テキストリンク + PCのアイコン */}
-          <div className="flex items-center gap-4 flex-wrap justify-center sm:justify-end">
+          {/* リンク + アイコン（折り返しなし） */}
+          <div className="flex items-center gap-2 sm:gap-4 justify-center sm:justify-end flex-nowrap">
             <Link
               href="/terms"
-              className="text-sm text-slate-400 hover:text-amber-400 transition-colors whitespace-nowrap"
+              className="text-xs sm:text-sm text-slate-400 hover:text-amber-400 transition-colors whitespace-nowrap"
             >
               利用規約
             </Link>
             <Link
               href="/privacy"
-              className="text-sm text-slate-400 hover:text-amber-400 transition-colors whitespace-nowrap"
+              className="text-xs sm:text-sm text-slate-400 hover:text-amber-400 transition-colors whitespace-nowrap"
             >
               プライバシーポリシー
             </Link>
             <Link
               href="/contact"
-              className="text-sm text-slate-400 hover:text-amber-400 transition-colors whitespace-nowrap"
+              className="text-xs sm:text-sm text-slate-400 hover:text-amber-400 transition-colors whitespace-nowrap"
             >
               お問い合わせ
             </Link>
-            <div className="hidden md:flex items-center gap-4">
-              {shareIcons}
-            </div>
+            <a
+              href={xHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Xでシェア"
+              className="text-slate-400 hover:text-slate-200 transition-colors flex-shrink-0"
+            >
+              <XIcon />
+            </a>
+            <a
+              href={lineHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="LINEでシェア"
+              className="transition-opacity hover:opacity-75 flex-shrink-0"
+            >
+              <img
+                src="/line-icon.svg"
+                alt="LINEでシェア"
+                width={20}
+                height={20}
+                style={{ borderRadius: "4px", filter: "grayscale(100%) brightness(0.8)" }}
+              />
+            </a>
           </div>
 
         </div>

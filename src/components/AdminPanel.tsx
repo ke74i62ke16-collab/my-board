@@ -536,7 +536,7 @@ function DashboardSection({
               <YAxis allowDecimals={false} tick={{ fontSize: 11, fill: "#646970" }} />
               <Tooltip
                 contentStyle={{ fontSize: 12, borderRadius: 6, border: "1px solid #c3c4c7" }}
-                formatter={(v: number, name: string) => [
+                formatter={(v: any, name: any) => [
                   `${v}件`,
                   name === "threadCount" ? "スレッド" : "投稿",
                 ]}

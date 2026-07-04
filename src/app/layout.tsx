@@ -31,7 +31,6 @@ export const metadata: Metadata = {
     description,
     type: "website",
     url: siteUrl,
-    images: [{ url: "/og-image.png" }],
   },
   twitter: {
     card: "summary_large_image",

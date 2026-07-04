@@ -494,7 +494,7 @@ function DashboardSection({
               <YAxis allowDecimals={false} tick={{ fontSize: 11, fill: "#646970" }} />
               <Tooltip
                 contentStyle={{ fontSize: 12, borderRadius: 6, border: "1px solid #c3c4c7" }}
-                formatter={(v: number) => [`${v}件`, "投稿数"]}
+                formatter={(v: any) => [`${v}件`, "投稿数"]}
               />
               <Bar dataKey="count" fill="#334155" radius={[3, 3, 0, 0]} />
             </BarChart>

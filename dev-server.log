@@ -8105,3 +8105,22 @@ Parsing ecmascript source code failed
  GET / 200 in 7.4s (next.js: 14ms, application-code: 7.4s)
  GET / 200 in 5.7s (next.js: 58ms, application-code: 5.7s)
 [browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ POST /mgmt-p8x2k?section=threads 200 in 2.0s (next.js: 75ms, application-code: 1944ms)
+  └─ ƒ deleteThreadDirectAction("222952f1-ad29-400f-926b-e7ef932c7eb0") in 1822ms src/lib/actions.ts
+ GET /mgmt-p8x2k?section=threads 200 in 1106ms (next.js: 12ms, application-code: 1094ms)
+ GET / 200 in 745ms (next.js: 32ms, application-code: 714ms)
+ POST / 200 in 170ms (next.js: 12ms, application-code: 157ms)
+  └─ ƒ getThreadsAction() in 135ms src/lib/actions.ts
+ GET / 200 in 369ms (next.js: 34ms, application-code: 335ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 2.2s
+ GET /mgmt-p8x2k?section=threads 200 in 5.8s (next.js: 927ms, application-code: 4.9s)
+ GET /mgmt-p8x2k?section=threads 200 in 12.3s (next.js: 5.7s, application-code: 6.6s)
+ GET / 200 in 13.1s (next.js: 3.6s, application-code: 9.5s)
+ GET / 200 in 6.6s (next.js: 252ms, application-code: 6.4s)
+ GET / 200 in 4.8s (next.js: 4.1s, application-code: 708ms)
+ GET / 200 in 4.8s (next.js: 806ms, application-code: 4.0s)
+ GET /mgmt-p8x2k?section=threads 200 in 7.9s (next.js: 49ms, application-code: 7.8s)
+ GET / 200 in 11.8s (next.js: 1313ms, application-code: 10.4s)
+ GET / 200 in 5.2s (next.js: 113ms, application-code: 5.1s)

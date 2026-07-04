@@ -6,7 +6,7 @@ export const contentType = "image/png";
 
 export default async function Image() {
   const fontData = await fetch(
-    "https://fonts.gstatic.com/s/dotgothic16/v17/v6-QGzvelXeqEnFKlGmJ4WkF.ttf"
+    "https://raw.githubusercontent.com/fontworks-fonts/DotGothic16/master/fonts/ttf/DotGothic16-Regular.ttf"
   ).then((res) => res.arrayBuffer());
 
   const F = "DotGothic16";

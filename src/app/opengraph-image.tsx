@@ -4,7 +4,12 @@ export const alt = "ポケトレ板 | ポケモンカード投資・コレクタ
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-export default function Image() {
+export default async function Image() {
+  const fontData = await fetch(
+    "https://fonts.gstatic.com/s/dotgothic16/v17/v6-QGzvelXeqEnFKlGmJ4WkF.ttf"
+  ).then((res) => res.arrayBuffer());
+
+  const F = "DotGothic16";
   const fs = 120;
 
   return new ImageResponse(
@@ -32,7 +37,7 @@ export default function Image() {
             gap: 36,
           }}
         >
-          {/* ロゴ */}
+          {/* ロゴ: Logo.tsx の比率をそのまま fs ベースの px に変換 */}
           <div
             style={{
               display: "flex",
@@ -42,7 +47,7 @@ export default function Image() {
               lineHeight: 1,
             }}
           >
-            {/* ポ = ホ + Pokéball半濁点SVG */}
+            {/* ポ = ホ + Pokéball半濁点SVG (Logo.tsx: paddingRight:0.22em, top:-0.08em, right:0.1em, size:0.28em) */}
             <div
               style={{
                 position: "relative",
@@ -50,7 +55,14 @@ export default function Image() {
                 paddingRight: Math.round(fs * 0.22),
               }}
             >
-              <span style={{ color: "#ffffff", fontWeight: 400, lineHeight: 1 }}>
+              <span
+                style={{
+                  color: "#ffffff",
+                  fontFamily: F,
+                  fontWeight: 400,
+                  lineHeight: 1,
+                }}
+              >
                 ホ
               </span>
               <svg
@@ -73,19 +85,24 @@ export default function Image() {
             </div>
 
             {/* ケ: 白 */}
-            <span style={{ color: "#ffffff", fontWeight: 400, lineHeight: 1 }}>
+            <span
+              style={{ color: "#ffffff", fontFamily: F, fontWeight: 400, lineHeight: 1 }}
+            >
               ケ
             </span>
 
             {/* トレ: 黄色 */}
-            <span style={{ color: "#FFD23F", fontWeight: 400, lineHeight: 1 }}>
+            <span
+              style={{ color: "#FFD23F", fontFamily: F, fontWeight: 400, lineHeight: 1 }}
+            >
               トレ
             </span>
 
-            {/* 板: 小さめ・グレー */}
+            {/* 板: 小さめ・グレー (Logo.tsx: fontSize:0.6em, verticalAlign:0.2em, marginLeft:0.05em) */}
             <span
               style={{
                 color: "#bbbbbb",
+                fontFamily: F,
                 fontWeight: 400,
                 lineHeight: 1,
                 fontSize: Math.round(fs * 0.6),
@@ -98,7 +115,7 @@ export default function Image() {
           </div>
 
           {/* サブタイトル */}
-          <div style={{ fontSize: 36, color: "#94a3b8" }}>
+          <div style={{ fontSize: 36, color: "#94a3b8", fontFamily: F }}>
             ポケモンカード投資・コレクター掲示板
           </div>
         </div>
@@ -117,6 +134,9 @@ export default function Image() {
         </div>
       </div>
     ),
-    { ...size }
+    {
+      ...size,
+      fonts: [{ name: F, data: fontData, weight: 400 }],
+    }
   );
 }

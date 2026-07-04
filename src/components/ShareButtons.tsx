@@ -7,7 +7,7 @@ export default function ShareButtons({ url, title }: Props) {
   const encodedUrl = encodeURIComponent(url);
   const encodedTitle = encodeURIComponent(title);
   const xHref = `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`;
-  const lineHref = `https://social-plugins.line.me/lineit/share?url=${encodedUrl}`;
+  const lineHref = `https://line.me/R/msg/text/?${encodeURIComponent(`${url} ${title}`)}`;
 
   return (
     <div className="flex items-center gap-2">

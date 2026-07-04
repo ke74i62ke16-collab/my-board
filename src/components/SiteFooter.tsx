@@ -14,7 +14,7 @@ export default function SiteFooter() {
   const encodedUrl = encodeURIComponent(siteUrl);
   const encodedTitle = encodeURIComponent("ポケトレ板 | ポケモンカード投資・コレクター掲示板");
   const xHref = `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`;
-  const lineHref = `https://social-plugins.line.me/lineit/share?url=${encodedUrl}`;
+  const lineHref = `https://line.me/R/msg/text/?${encodeURIComponent(`${siteUrl} ポケトレ板 | ポケモンカード投資・コレクター掲示板`)}`;
 
   return (
     <footer className="mt-auto bg-slate-900 border-t border-slate-700/60">

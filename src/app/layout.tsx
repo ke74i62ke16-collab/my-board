@@ -50,12 +50,12 @@ export default function RootLayout({
       lang="ja"
       className={`${geistSans.variable} ${geistMono.variable} ${dotGothic16.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">
+      <head>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-PHHSDNTDDV"
-          strategy="afterInteractive"
+          strategy="beforeInteractive"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
+        <Script id="google-analytics" strategy="beforeInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -63,6 +63,8 @@ export default function RootLayout({
             gtag('config', 'G-PHHSDNTDDV');
           `}
         </Script>
+      </head>
+      <body className="min-h-full flex flex-col">
         {children}
       </body>
     </html>
